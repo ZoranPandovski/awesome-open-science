@@ -2,6 +2,7 @@
 
 >  A curated list of resources, data, tools, scholarship related to Open Access, Data and Open Science
 
+# Note: this list is still under development :wrench: :construction_worker:
 
 ## Contents
 
