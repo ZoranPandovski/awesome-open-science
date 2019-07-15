@@ -4,28 +4,38 @@
 
 # Note: this list is still under development :wrench: :construction_worker:
 
-## Contents
+## Table of Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
-
+- [Research Data](#research-data)
+- [Tools](#tools)
+- [Organizations](#organizations)
+- [Courses](#courses)
+- [Events](#events)
+- [Books](#books)
+- [Fundings](#fundings)
+- [Similar Awesome Lists](#similar-awesome-lists)
 
 ## Research Data
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [E-learning platform](http://www.researchdatamanagement.ch/)
 
 ## Tools
 
+- [EOSC](https://eosc-portal.eu/)
+
 ## Organizations
 
+- [OpenScienceMOOC](https://opensciencemooc.eu/) - Community organisation for the development of an Massive Open Online Community for Open Science
+
 ## Courses
+
+-[Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
 
 ## Events
 
 ## Books
+
+- [Opening Science](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly 
 
 ## Fundings
 
