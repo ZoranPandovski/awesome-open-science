@@ -28,8 +28,8 @@
 - [OpenScienceMOOC](https://opensciencemooc.eu/) - Community organisation for the development of an Massive Open Online Community for Open Science
 
 ## Courses
-
--[Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
+- [Open Science MOOC](https://eliademy.com/opensciencemooc)
+  - [Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
 
 ## Events
 
