@@ -30,6 +30,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Similar Awesome Lists
 
+ - [Open Science Software](https://github.com/INRIA/awesome-open-science-software)
+ - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+ - [Open Science](https://github.com/silky/awesome-open-science)
+
 
 ## Contribute
 
