@@ -33,12 +33,12 @@ About this section. Optional. Keep this short and focus on the list.
  - [Open Science Software](https://github.com/INRIA/awesome-open-science-software)
  - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
  - [Open Science](https://github.com/silky/awesome-open-science)
-
+ - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
+ - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
