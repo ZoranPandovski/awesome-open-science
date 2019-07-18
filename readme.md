@@ -18,6 +18,8 @@
 ## Research Data
 
 - [E-learning platform](http://www.researchdatamanagement.ch/)
+- [Finnish Social Science Data Archive](https://www.fsd.uta.fi/en/)
+- [BASE](https://www.base-search.net/), Biefeld academic search engine
 
 ## Research Articles and Reports
 
