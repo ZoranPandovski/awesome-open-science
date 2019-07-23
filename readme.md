@@ -20,6 +20,8 @@
 - [E-learning platform](http://www.researchdatamanagement.ch/)
 - [Finnish Social Science Data Archive](https://www.fsd.uta.fi/en/)
 - [BASE](https://www.base-search.net/) - Biefeld academic search engine
+- [Academia](https://www.academia.edu/) - Academia.edu is a platform for academics to share research papers
+- [Research Gate](https://www.researchgate.net/) - ResearchGate is the professional network for scientists and researchers
 
 ## Research Articles and Reports
 
