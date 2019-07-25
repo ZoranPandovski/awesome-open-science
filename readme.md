@@ -90,16 +90,16 @@
    - [Registered Reports](https://cos.io/rr/)
    - Existing reproducible research workshops/practical resources:
    - [Reproducible Research, Workshop](https://docs.google.com/presentation/d/1QfJVeim797fLBBAE003W6cqtahkGdJqa2GSsmm-t89s/edit?usp=sharing) - CC-BY, April Clyburne-Sherin & Courtney Soderberg
-   - [Initial steps towards reproducible research](http://kbroman.org/steps2rr/) - Karl Broman
-   - [The Open Science and Reproducible Research course](https://github.com/cbahlai/OSRR_course) - CC-BY, Christie Bahlai
-   - [Reproducibility Workshop](https://codeocean.com/workshop/caltech) - Best practices and easy steps to save time for yourself and other researchers, [Code Ocean](https://codeocean.com/)
-   - [Reproducibility in Science: A guide to enhancing reproducibility in scientific results and writing](http://ropensci.github.io/reproducibility-guide/),ROpenSci
-   - [Reproducible Research using Jupyter Notebooks workshop](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/), The Carpentries
-   - [R markdown workshop](https://github.com/libscie/rmarkdown-workshop), (Liberate Science)
-   - [rrtools: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools) - Ben Marwick
-   - [ReproZip](https://reprozip.org/), an Open source tool for full computational reproducibility
-   - [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
-   - [Jupyter notebooks](http://jupyter.org/) and [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906), [R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/), [Stencila](https://stenci.la/)
+- [Initial steps towards reproducible research](http://kbroman.org/steps2rr/) - Karl Broman
+- [The Open Science and Reproducible Research course](https://github.com/cbahlai/OSRR_course) - CC-BY, Christie Bahlai
+- [Reproducibility Workshop](https://codeocean.com/workshop/caltech) - Best practices and easy steps to save time for yourself and other researchers, [Code Ocean](https://codeocean.com/)
+- [Reproducibility in Science: A guide to enhancing reproducibility in scientific results and writing](http://ropensci.github.io/reproducibility-guide/),ROpenSci
+- [Reproducible Research using Jupyter Notebooks workshop](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/), The Carpentries
+- [R markdown workshop](https://github.com/libscie/rmarkdown-workshop), (Liberate Science)
+- [rrtools: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools) - Ben Marwick
+- [ReproZip](https://reprozip.org/), an Open source tool for full computational reproducibility
+- [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
+- [Jupyter notebooks](http://jupyter.org/) and [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906), [R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/), [Stencila](https://stenci.la/)
 - Virtual Machines:
    - [Docker](https://www.docker.com/)
    - [Vagrant](https://www.vagrantup.com/)
