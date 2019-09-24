@@ -84,23 +84,23 @@
 - [Software Citation Tools](https://github.com/mozillascience/software-citation-tools) - Mozilla Science Lab
 - [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) - Fernandes and Vos, 2017
 - [Choose an open source license](https://choosealicense.com/)
- * Open Science Framework (COS)
+- Open Science Framework (COS)
    - [Reproducibility Project: Cancer Biology](https://osf.io/e81xl/wiki/home/)
    - [Reproducibility Project: Psychological Science](https://osf.io/ezcuj/wiki/home/)
    - [Registered Reports](https://cos.io/rr/)
    - Existing reproducible research workshops/practical resources:
    - [Reproducible Research, Workshop](https://docs.google.com/presentation/d/1QfJVeim797fLBBAE003W6cqtahkGdJqa2GSsmm-t89s/edit?usp=sharing) - CC-BY, April Clyburne-Sherin & Courtney Soderberg
-   - [Initial steps towards reproducible research](http://kbroman.org/steps2rr/) - Karl Broman
-   - [The Open Science and Reproducible Research course](https://github.com/cbahlai/OSRR_course) - CC-BY, Christie Bahlai
-   - [Reproducibility Workshop](https://codeocean.com/workshop/caltech) - Best practices and easy steps to save time for yourself and other researchers, [Code Ocean](https://codeocean.com/)
-   - [Reproducibility in Science: A guide to enhancing reproducibility in scientific results and writing](http://ropensci.github.io/reproducibility-guide/),ROpenSci
-   - [Reproducible Research using Jupyter Notebooks workshop](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/), The Carpentries
-   - [R markdown workshop](https://github.com/libscie/rmarkdown-workshop), (Liberate Science)
-   - [rrtools: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools) - Ben Marwick
-   - [ReproZip](https://reprozip.org/), an Open source tool for full computational reproducibility
-   - [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
-   - [Jupyter notebooks](http://jupyter.org/) and [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906), [R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/), [Stencila](https://stenci.la/)
- * Virtual Machines:
+- [Initial steps towards reproducible research](http://kbroman.org/steps2rr/) - Karl Broman
+- [The Open Science and Reproducible Research course](https://github.com/cbahlai/OSRR_course) - CC-BY, Christie Bahlai
+- [Reproducibility Workshop](https://codeocean.com/workshop/caltech) - Best practices and easy steps to save time for yourself and other researchers, [Code Ocean](https://codeocean.com/)
+- [Reproducibility in Science: A guide to enhancing reproducibility in scientific results and writing](http://ropensci.github.io/reproducibility-guide/),ROpenSci
+- [Reproducible Research using Jupyter Notebooks workshop](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/), The Carpentries
+- [R markdown workshop](https://github.com/libscie/rmarkdown-workshop), (Liberate Science)
+- [rrtools: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools) - Ben Marwick
+- [ReproZip](https://reprozip.org/), an Open source tool for full computational reproducibility
+- [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
+- [Jupyter notebooks](http://jupyter.org/) and [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906), [R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/), [Stencila](https://stenci.la/)
+- Virtual Machines:
    - [Docker](https://www.docker.com/)
    - [Vagrant](https://www.vagrantup.com/)
    - [BinderHub](https://github.com/jupyterhub/binderhub)
@@ -108,7 +108,7 @@
    - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/) - for creating custom computing environments that can be shared and used by multiple remote users
    - [Statcheck](http://statcheck.io/), GRIM
    - [Scienceroot](https://www.scienceroot.com/) - the first blockchain-based scientific ecosystem
- * Online repositories for open hardware:
+- Online repositories for open hardware:
    - [PLOS open source toolkit channel](https://channels.plos.org/open-source-toolkit)
    - [Open Neuroscience](http://www.openeuroscience.com/)
    - [Open Plant Science](http://openplant.science/)
@@ -131,33 +131,33 @@
 ## Organizations
 
 - [OpenScienceMOOC](https://opensciencemooc.eu/) - Community organisation for the development of an Massive Open Online Community for Open Science
-* [Eclipse Science](https://science.eclipse.org) - Open source and collaboration for computational science.
-* [Mozilla Science](https://science.mozilla.org) - A community of researchers, developers, and librarians making research open and accessible.
-* [Research Data Alliance](https://www.rd-alliance.org/) - (RDA) is a community-driven organization supported by the European Commission, the United States Government's National Science Foundation and National Institute of Standards and Technology, and the Australian Government’s Department of Innovation with the goal of building the social and technical infrastructure to enable open sharing of data.
-* [The Software Sustainability Institute](https://www.software.ac.uk/) - Cultivate better, more sustainable, research software to enable world-class research.
-* [Openscience.org](http://openscience.org) - Supports the development of open scientific software, in particular for cheminformatics. 
-* [NumFOCUS](https://www.numfocus.org/) - Open-code, better science. Non-profit organization that promotes sustainable high-level programming languages, open code development, and reproducible scientific research.
+- [Eclipse Science](https://science.eclipse.org) - Open source and collaboration for computational science.
+- [Mozilla Science](https://science.mozilla.org) - A community of researchers, developers, and librarians making research open and accessible.
+- [Research Data Alliance](https://www.rd-alliance.org/) - (RDA) is a community-driven organization supported by the European Commission, the United States Government's National Science Foundation and National Institute of Standards and Technology, and the Australian Government’s Department of Innovation with the goal of building the social and technical infrastructure to enable open sharing of data.
+- [The Software Sustainability Institute](https://www.software.ac.uk/) - Cultivate better, more sustainable, research software to enable world-class research.
+- [Openscience.org](http://openscience.org) - Supports the development of open scientific software, in particular for cheminformatics.
+- [NumFOCUS](https://www.numfocus.org/) - Open-code, better science. Non-profit organization that promotes sustainable high-level programming languages, open code development, and reproducible scientific research.
 
 ## Courses
 - [Open Science MOOC](https://eliademy.com/opensciencemooc)
-  - [Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
-  - [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
+   - [Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
+   - [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
 
 ## Events
 
 ## Books
 
-- [Opening Science](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly 
+- [Opening Science](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly
 
 ## Fundings
 
 ## Similar Awesome Lists
 
- - [Open Science Software](https://github.com/INRIA/awesome-open-science-software)
- - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
- - [Open Science](https://github.com/silky/awesome-open-science)
- - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
- - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Open Science Software](https://github.com/INRIA/awesome-open-science-software)
+- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+- [Open Science](https://github.com/silky/awesome-open-science)
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Contribute
 
