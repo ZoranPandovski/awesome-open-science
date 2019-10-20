@@ -72,6 +72,8 @@
 - [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160), Lowndes et al. 2017
 - [Haves and Have nots must find a better way: The case for Open Scientific Hardware](https://osf.io/uh682/), Chagas, 2018
 - [Computational Reproducibility via Containers in Social Psychology](https://psyarxiv.com/mf82t), Green and Clyburne-Sherin, 2018
+- [Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019), stackoverflow, 2019
+
 
 ## Tools
 
