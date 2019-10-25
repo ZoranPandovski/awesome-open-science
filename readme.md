@@ -160,6 +160,7 @@
 - [Open Science](https://github.com/silky/awesome-open-science)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-courses-en.md#machine-learning)
 
 ## Contribute
 
