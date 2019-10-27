@@ -110,6 +110,8 @@
    - [Binder Documentation](https://mybinder.readthedocs.io/en/latest/) - for creating custom computing environments that can be shared and used by multiple remote users
    - [Statcheck](http://statcheck.io/), GRIM
    - [Scienceroot](https://www.scienceroot.com/) - the first blockchain-based scientific ecosystem
+   - [Lando](https://lando.dev/) - A local development and DevOps tool for all your projects
+   - [Podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System
 - Online repositories for open hardware:
    - [PLOS open source toolkit channel](https://channels.plos.org/open-source-toolkit)
    - [Open Neuroscience](http://www.openeuroscience.com/)
@@ -139,6 +141,7 @@
 - [The Software Sustainability Institute](https://www.software.ac.uk/) - Cultivate better, more sustainable, research software to enable world-class research.
 - [Openscience.org](http://openscience.org) - Supports the development of open scientific software, in particular for cheminformatics.
 - [NumFOCUS](https://www.numfocus.org/) - Open-code, better science. Non-profit organization that promotes sustainable high-level programming languages, open code development, and reproducible scientific research.
+- [Center for Open Science](https://cos.io/) - Community for open science that also provides research and data software tools
 
 ## Courses
 - [Open Science MOOC](https://eliademy.com/opensciencemooc)
