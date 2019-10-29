@@ -144,6 +144,8 @@
 - [Open Science MOOC](https://eliademy.com/opensciencemooc)
    - [Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
    - [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
+   
+- [Open Computer Science Courses](https://www.edx.org/course/subject/computer-science) 
 
 ## Events
 
