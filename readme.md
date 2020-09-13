@@ -77,6 +77,7 @@
 
 ## Tools
 
+- [Sci-Hub](https://sci-hub.tw/) - Research Paper File Sharing Platform
 - [EOSC](https://eosc-portal.eu/)
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and the [Journal of Open Source Software](https://joss.theoj.org/)
 - [InsideDNA](https://insidedna.me/)
