@@ -156,6 +156,7 @@
 ## Books
 
 - [Opening Science](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly
+- [Top 10 Must-Read Books for Computer Science Majors](https://www.computersciencedegreehub.com/top-10-mustread-books-computer-science-majors/)
 
 ## Fundings
 
