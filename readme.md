@@ -145,9 +145,9 @@
 - [Center for Open Science](https://cos.io/) - Community for open science that also provides research and data software tools
 
 ## Courses
-- [Open Science MOOC](https://eliademy.com/opensciencemooc)
-   - [Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
-   - [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
+- [Open Science MOOC](https://opensciencemooc.eu/)
+   - [Module 1: Open Principles](https://opensciencemooc.eu/modules/open-principles/)
+   - [Module 5: Open Research Software and Open Source](https://opensciencemooc.eu/modules/open-research-software-and-open-source/)
    
 - [Open Computer Science Courses](https://www.edx.org/course/subject/computer-science) 
 
