@@ -101,6 +101,7 @@
 - [R markdown workshop](https://github.com/libscie/rmarkdown-workshop), (Liberate Science)
 - [rrtools: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools) - Ben Marwick
 - [ReproZip](https://reprozip.org/), an Open source tool for full computational reproducibility
+- [SciProof](https://github.com/hayagrivai-labs/sciproof) - Offline-first tool for recording computational experiments and creating machine-verifiable evidence manifests
 - [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
 - [Jupyter notebooks](http://jupyter.org/) and [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906), [R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/), [Stencila](https://stenci.la/)
 - Virtual Machines:
